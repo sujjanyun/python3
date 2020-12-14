@@ -1,0 +1,2 @@
+cat Cat:
+    species = "Mammal"
